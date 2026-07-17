@@ -54,7 +54,7 @@ The application can support such as:
 
 ## Using the Application
 
-1. Open the [Mobility Hub Explorer](https://d9dzqszio0qvu.cloudfront.net/).
+1. Navigate to the [Centralina Mobility Hub Explorer] on connect-beyond website (https://www.connect-beyond.com/key-initiatives/mobility-hubs/)
 2. Navigate to the community or a general location you want to examine.
 3. Place or select a potential mobility hub center with a pin.
 4. Create a half-mile study area and run analysis.
@@ -113,14 +113,12 @@ Depending on availability and community coverage, the application may include:
 
 | Category              | Example Information                                                                     |
 | --------------------- | --------------------------------------------------------------------------------------- |
-| Transit               | Stops, routes, stations, microtransit, and park-and-ride facilities                     |
-| Active transportation | Sidewalks, bicycle facilities, greenways, trails, and crossings                         |
-| Road network          | Roads, intersections, and related transportation infrastructure                         |
-| Destinations          | Schools, parks, libraries, civic facilities, employment centers, and community services |
-| Land use              | Existing land use, development patterns, and activity centers                           |
-| Demographics          | Population, households, employment, and selected socioeconomic characteristics          |
-| Boundaries            | Municipal, county, census, and planning-area boundaries                                 |
-| Mobility hub concepts | Candidate or pilot hub locations and concept information                                |
+| Transit Services      | Transit stops and routes of various mode, microtransit, and park-and-ride locations     |
+| Active transportation | Sidewalks, greenways, blueways and signaled crossings                                   |
+| Destinations          | Schools, public libraries, healthcare, shelter, and activity centers                    |
+| Land use              | Community type as a proxy of land use pattern                                           |
+| Demographics          | Population, households, employment, and other socioeconomic characteristics and projections   |
+| Boundaries            | County and census tract boundaries                                                      |
 
 Data availability, completeness, update frequency, and geographic coverage vary by source. See raw_source_inventory for more information.
 
