@@ -1,3 +1,7 @@
+## Date: 08/18/2026
+# Activity: 
+# 1) CATS bus stops, routes, microtransit, and park and ride locations are updated based on data as of 8/18/2026
+
 ## Date: 07/22/2026
 # Activity: 
 # 1) sidewalk and crossing data were updated based on the new release of NCDOT PBIN data (now July 2026; previously in 2024). Both original datasets present existing and planned status, and crossing dataset includes both signalized and non-signalized. The current webmap on the tool displays only existing sidewalk and crossing.
