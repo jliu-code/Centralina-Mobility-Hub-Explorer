@@ -1,3 +1,7 @@
+## Date: 09/10/2026
+# Activity:
+# 1) Added regional context map in the overview map on the tool to extend exploration experience beyond any evaluated hub area.
+
 ## Date: 08/18/2026
 # Activity: 
 # 1) CATS bus stops, routes, microtransit, and park and ride locations are updated based on data as of 8/18/2026
