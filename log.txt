@@ -1,3 +1,7 @@
+## Date: 09/22/2026
+# Activity: 
+# 1) CATS bus stops, routes, and microtransit(08/20) are updated based on data as of 09/22/2026. No changes to park and ride locations since last update based on REST API.
+
 ## Date: 09/10/2026
 # Activity:
 # 1) Added regional context map in the overview map on the tool to extend exploration experience beyond any evaluated hub area.
